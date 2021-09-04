@@ -19,13 +19,10 @@ When running both Train and Test(Inference) notebooks, use the supplied monet an
 
 When running the Test notebook, use the following files in order to load the model (put those files in any path on, change the PATH variable's value inside the Test notebook to your environment path):
 
-saved_model.pb
-
-keras_metadata.pb
-
-variables.data-00000-of-00001
-
-variables.index
+1) saved_model.pb
+2) keras_metadata.pb
+3) variables.data-00000-of-00001
+4) variables.index
 
 Note: The tfrec files were added also to our git repository.
 

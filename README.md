@@ -4,9 +4,7 @@ Deep learning project using Cycle-GAN - image to image translation.
 Please follow the following installations, prior to program execution (Training/Test Notebooks):
 
 !pip install tensorflow_addons
-
 !pip install --upgrade tensorflow
-
 !pip install --upgrade tensorflow-gpu
 
 After the installaion phase, run the Training/Test Google Colab notebooks:
